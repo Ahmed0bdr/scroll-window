@@ -1,0 +1,29 @@
+{
+  "name": "scroll-window",
+  "version": "1.0.0",
+  "description": "A virtual scroll window component for React",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "build": "vite build"
+  },
+  "peerDependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "keywords": [
+    "react",
+    "scroll",
+    "windowing",
+    "component"
+  ],
+  "author": "أحمد بدرالدين",
+  "license": "MIT",
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.6.0",
+    "vite": "^7.0.0"
+  }
+}
