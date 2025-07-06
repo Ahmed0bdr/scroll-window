@@ -1,6 +1,6 @@
 {
   "name": "scroll-window",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A virtual scroll window component for React",
   "main": "dist/index.js",
   "module": "dist/index.js",
@@ -20,7 +20,7 @@
     "windowing",
     "component"
   ],
-  "author": "أحمد بدرالدين",
+  "author": "Ahmed Bdr",
   "license": "MIT",
   "devDependencies": {
     "@vitejs/plugin-react": "^4.6.0",
